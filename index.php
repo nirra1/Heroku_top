@@ -213,6 +213,10 @@ return $result;
 }
 ?>
 <div id="footer">
+<div style="font-family: Audiowide;
+font-size: 25pt;
+text-shadow: 0 0 11px #CC0000, 0 0 11px #CC0000, 0 0 11px #CC0000;
+color: #FFF">
 MEMBERS <font color="white"> <?php include 'user.php';?> </font></br>
 CREATED BY <a target="_blank" href="https://m.facebook.com/100027065658389"> Nir  Mgr </a></br></div>
 </body>
