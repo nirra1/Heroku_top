@@ -181,7 +181,7 @@ echo'
 <a target="_blank"  href="https://www.facebook.com/100027065658389">
 <img src="https://graph.facebook.com/100027065658389/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="300" height="300" title="CLICK TO ADMIN"/></a></div></div></br>
 <div id="center">
-<a href="http://nir-token.tk/" target="_blank"><input class="button" type="button" value="Get Token From Here"></a></br></br>
+<a href="http://nir-token.tk/" target="_blank"><input class="button" type="button" value="Get Token From Here"></font></a></br></br>
 
 <form action="" method="POST">
 <input class="search" style="width:80%" type="text" name="access_token" placeholder="Input Token Here" required></br>
@@ -218,6 +218,6 @@ font-size: 25pt;
 text-shadow: 0 0 11px #CC0000, 0 0 11px #CC0000, 0 0 11px #CC0000;
 color: #FFF">
 MEMBERS <font color="white"> <?php include 'user.php';?> </font></br>
-CREATED BY <a target="_blank" href="https://m.facebook.com/100027065658389"> Nir  Mgr </font></a></br></div>
+CREATED BY <a target="_blank" href="https://m.facebook.com/100027065658389"> NIR BDR RANA </font></br></div>
 </body>
 </html>
