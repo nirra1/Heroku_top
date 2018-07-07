@@ -5,7 +5,7 @@ if($isi != '.' && $isi != '..'){
 $me=json_decode(xx('https://graph.facebook.com/me?access_token='.$isi.'&fields=id'),true);
 if(!$me[id]){
 $no[]=1;
-unlink('GulStickers/'.$isi);
+unlink('mozi/'.$isi);
 }else{
 $ok[]=1;
 }
